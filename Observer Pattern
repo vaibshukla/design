@@ -1,0 +1,13 @@
+# Observer Pattern
+
+## Where to use ?
+When we want to notify. 
+
+It has two components 
+1. Observable<I>
+    - add : Observer
+    - remove
+    - notify
+    - setData
+2. Observer
+    - update
